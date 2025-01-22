@@ -47,4 +47,5 @@ usethis::git_sitrep()
 # Iniciar o git no projeto
 usethis::use_git()
 
+usethis::use_github()
 
