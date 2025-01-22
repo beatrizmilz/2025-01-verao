@@ -47,5 +47,25 @@ usethis::git_sitrep()
 # Iniciar o git no projeto
 usethis::use_git()
 
-usethis::use_github()
+usethis::use_github() # público
 
+usethis::use_github(private = TRUE) # privado
+
+# comandos de git (para usar no terminal)
+# adicionar um arquivo específico em staged
+# git add git-github-comandos.R 
+
+# adicionar todos os arquivos em staged
+# git add .
+
+# ver o status do meu projeto
+# git status
+
+# commitar as mudanças
+# commit -m "mensagem de commit"
+
+# enviar as mudanças
+# git push
+
+# buscar mudanças
+# git pull
