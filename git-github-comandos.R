@@ -69,3 +69,5 @@ usethis::use_github(private = TRUE) # privado
 
 # buscar mudanças
 # git pull
+
+# Exemplo de commit pelo GitHub desktop
